@@ -1,12 +1,15 @@
 ## Hello, I'm João Pedro 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- ⚙️ Mastering: python, web development
-- 📫 How to reach me: ...
+- 🔭 I’m currently focusing on improve my web development and REST API skills.
+- 🌱 I’m currently learning unit testing and TDD.
+- 📫 How to reach me: jp.mendoncaoliv@gmail.com
+##
 
 <div>
   <a href="https://github.com/JP-Mendonca">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JP-Mendonca&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JP-Mendonca&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JP-Mendonca&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+
+##
+  
