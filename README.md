@@ -2,7 +2,7 @@
 
 Computer science undergraduate student at <a href="https://www.unit.br">Universidade Tiradentes</a>. 
 - :snake: Python developer and enthusiast.
-- 🔭 Currently focusing on improving my web development and REST API skills.
+- 🔭 Currently focusing on web development.
 - 🌱 Learning unit testing and TDD.
 - 📫 How to reach me: jp.mendoncaoliv@gmail.com
 ##
