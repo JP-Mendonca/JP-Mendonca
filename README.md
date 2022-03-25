@@ -4,6 +4,7 @@ Computer science undergraduate student at <a href="https://www.unit.br">Universi
 - :snake: Python developer and enthusiast.
 - 🔭 Currently focusing on web development.
 - 🌱 Learning unit testing and TDD.
+- 📖 Studying NLP.
 - 📫 How to reach me: jp.mendoncaoliv@gmail.com
 ##
 
