@@ -1,7 +1,8 @@
 ## Hello, I'm João Pedro 👋
 
 Computer science undergraduate student at <a href="https://www.unit.br">Universidade Tiradentes</a>. 
-- :snake: Python developer and enthusiast.
+° Python ° 
+- :snake: Python enthusiast.
 - 🔭 Currently focusing on web development.
 - 🌱 Learning unit testing and TDD.
 - 📖 Studying NLP.
