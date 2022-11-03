@@ -3,7 +3,6 @@
 Computer science undergraduate student at <a href="https://www.unit.br">Universidade Tiradentes</a>. 
 - :snake: Python enthusiast.
 - 📊 Data Science
-- 💡 NLP
 - 🤖 AI & Machine Learning
 - 🌐 Web Development
 - 📫 How to reach me: jp.mendoncaoliv@gmail.com
