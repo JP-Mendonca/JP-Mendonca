@@ -1,9 +1,9 @@
 ## Hello, I'm João Pedro 👋
 
 - :snake: Python enthusiast.
+- 🌐 Web Development
 - 📊 Data Science
 - 🤖 AI & Machine Learning
-- 🌐 Web Development
 - 📫 How to reach me: jp.mendoncaoliv@gmail.com
 ##
 <div float="left">
